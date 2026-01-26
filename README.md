@@ -53,5 +53,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/thiru45rohit/leetcode/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/thiru45rohit/leetcode/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/thiru45rohit/leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
