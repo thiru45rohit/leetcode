@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/thiru45rohit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/thiru45rohit/leetcode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
@@ -59,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/thiru45rohit/leetcode/tree/master/0031-next-permutation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/thiru45rohit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
