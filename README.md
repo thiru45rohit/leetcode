@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/thiru45rohit/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/thiru45rohit/leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/thiru45rohit/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/thiru45rohit/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/thiru45rohit/leetcode/tree/master/0031-next-permutation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thiru45rohit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/thiru45rohit/leetcode/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/thiru45rohit/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
