@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/thiru45rohit/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thiru45rohit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/thiru45rohit/leetcode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/thiru45rohit/leetcode/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/thiru45rohit/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/thiru45rohit/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thiru45rohit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/thiru45rohit/leetcode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
@@ -75,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/thiru45rohit/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/thiru45rohit/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
