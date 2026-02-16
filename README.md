@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/thiru45rohit/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/thiru45rohit/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thiru45rohit/leetcode/tree/master/0242-valid-anagram) |
 ## String
@@ -63,10 +64,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/thiru45rohit/leetcode/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/thiru45rohit/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thiru45rohit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/thiru45rohit/leetcode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/thiru45rohit/leetcode/tree/master/0338-counting-bits) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/thiru45rohit/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
