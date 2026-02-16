@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/thiru45rohit/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/thiru45rohit/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thiru45rohit/leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/thiru45rohit/leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/thiru45rohit/leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/thiru45rohit/leetcode/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/thiru45rohit/leetcode/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/thiru45rohit/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/thiru45rohit/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/thiru45rohit/leetcode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thiru45rohit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/thiru45rohit/leetcode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
