@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/thiru45rohit/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/thiru45rohit/leetcode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/thiru45rohit/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/thiru45rohit/leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/thiru45rohit/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/thiru45rohit/leetcode/tree/master/0342-power-of-four) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/thiru45rohit/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thiru45rohit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/thiru45rohit/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/thiru45rohit/leetcode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/thiru45rohit/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/thiru45rohit/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/thiru45rohit/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/thiru45rohit/leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
