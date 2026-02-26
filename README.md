@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/thiru45rohit/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/thiru45rohit/leetcode/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/thiru45rohit/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/thiru45rohit/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Recursion
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/thiru45rohit/leetcode/tree/master/0258-add-digits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/thiru45rohit/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Number Theory
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/thiru45rohit/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/thiru45rohit/leetcode/tree/master/0344-reverse-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/thiru45rohit/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Sorting
 |  |
 | ------- |
