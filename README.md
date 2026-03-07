@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/thiru45rohit/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/thiru45rohit/leetcode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/thiru45rohit/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/thiru45rohit/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/thiru45rohit/leetcode/tree/master/0326-power-of-three) |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/thiru45rohit/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/thiru45rohit/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/thiru45rohit/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thiru45rohit/leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/thiru45rohit/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/thiru45rohit/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/thiru45rohit/leetcode/tree/master/0344-reverse-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/thiru45rohit/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
